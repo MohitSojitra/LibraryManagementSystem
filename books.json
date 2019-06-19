@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "book_name": "c++",
+      "author_name": "mohit",
+      "copies": 3
+    },
+    {
+      "id": 2,
+      "book_name": "dbms",
+      "author_name": "parth",
+      "copies": 3
+    },
+    {
+      "id": 3,
+      "book_name": "datastructure",
+      "author_name": "babu",
+      "copies": 5
+    }
+  ]
+}
