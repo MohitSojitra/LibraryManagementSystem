@@ -1,23 +1,6 @@
 
 import json
 import re
-# data= {}
-# data['books'] = []
-# data['books'].append({
-#     'id' : 1,
-#     'book_name':'cn',
-#     'author_name' : 'mohit',
-#     'copies' : 4
-# })
-
-# f = open('books.json' , 'w')
-# json.dump(data , f , indent=2)
-# # f.close()
-# f = open('books.json')
-# m = json.load(f)
-# print(m)
-
-
 
 # code start from  hear........
 
@@ -241,50 +224,7 @@ class Admin:
 # starting of the librarian module
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # end of the code books..........
-
-
-
-#  students in formation
-
-# data= {}
-# data['students'] = []
-# data['students'].append({
-#     'sic_no' : 1,
-#     'name':'mohit',
-#     'phone' : '9998690907',
-#     'email' : "mohitsojitra0001@gmail.com"
-# })
-
-# f = open('students.json' , 'w')
-# json.dump(data , f , indent=2)
-# f.close()
-# f = open('books.json')
-# m = json.load(f)
-# print(m)
-
-
-
-
-
-
-
-
-
-
-
 
 
 # check admin user name and password
@@ -342,10 +282,6 @@ def add_admin():
     
     if flag ==-1: 
         print("Not a Valid Password") 
-
-
-
-
 
 
 class Librarian(Admin):
